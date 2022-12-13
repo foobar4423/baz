@@ -1,0 +1,4 @@
+{
+  "liveServer.settings.root": "/src",
+  "jest.jestCommandLine": "NODE_OPTIONS=--experimental-vm-modules npx jest"
+}
